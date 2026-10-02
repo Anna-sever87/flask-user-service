@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+*.db
+.git/
+.gitignore
+.env
+audit/
+check_service.py
+README.md
+Dockerfile
+.dockerignore
